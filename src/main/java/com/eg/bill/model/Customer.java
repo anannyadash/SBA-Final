@@ -15,6 +15,7 @@ public class Customer {
 	String date;
 	String city;
 	String contact;
+	String change; //will not be used
 	
 	
 	public int getId() {
